@@ -725,3 +725,8 @@ def play_tournament(num_players):
                str(int(scores[player])/num_players) , ' points: ',
                team_names[player])
     
+
+
+
+
+#blah blah blah
